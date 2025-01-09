@@ -9,5 +9,4 @@
 
 #define USE_DISPLAY                 
 #define USE_DISPLAY_MAX7219_MATRIX
-#define USE_DISPLAY_MAX7219_DOT_MATRIX
 #define USE_UTF8_LATIN1
