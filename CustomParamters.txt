@@ -10,3 +10,4 @@
 #define USE_DISPLAY                 
 #define USE_DISPLAY_MAX7219_MATRIX
 #define USE_UTF8_LATIN1
+#define USE_DISPLAY_MODES1TO5
